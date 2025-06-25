@@ -65,10 +65,6 @@ Request body:
 
 ### 📋 List all devices  
 **GET** `/devices`  
-Optional search:
-```http
-/devices?name=light
-```
 
 ---
 
